@@ -1,4 +1,4 @@
-                                                                                   # 🚀 Limits of Mathematics
+                                       # 🚀 Limits of Mathematics
 ---
 
 # Limits of Mathematics 🚀
