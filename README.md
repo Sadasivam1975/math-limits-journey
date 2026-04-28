@@ -167,7 +167,15 @@ Across all levels:
 > they are fundamental properties of structure.
 
 ---
+## Visual Journey
 
+```mermaid
+graph LR
+A[Arithmetic<br>Closure Failure] --> B[Algebra<br>Solvability Limits]
+B --> C[Computation<br>Undecidability]
+C --> D[Logic<br>Incompleteness]
+D --> E[Complexity<br>Inefficiency]
+```
 ## Conclusion
 
 This journey reveals a deep pattern:
