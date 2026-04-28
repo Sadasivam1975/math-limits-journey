@@ -1,3 +1,6 @@
+                                                                                   # 🚀 Limits of Mathematics
+---
+
 # Limits of Mathematics 🚀
 
 [Overview](#introduction) • [Visual](#visual-journey) • [Synthesis](#final-synthesis) • [Conclusion](#conclusion)
@@ -179,9 +182,8 @@ it reveals what **cannot** be solved.
 
 ## Final Thought
 
-> Mathematics does not just expand what we can do —
+> Mathematics does not just expand what we can do —  
 > it reveals what we can never do.
-
 ---
 
 **Author:** Sadasivam
